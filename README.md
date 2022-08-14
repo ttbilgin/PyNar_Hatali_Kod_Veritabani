@@ -1,0 +1,1 @@
+# PyNar_Hatali_Kod_Veritabani
