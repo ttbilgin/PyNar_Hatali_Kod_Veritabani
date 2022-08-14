@@ -1,0 +1,1 @@
+print(parola=='123' and giris==Tru)
