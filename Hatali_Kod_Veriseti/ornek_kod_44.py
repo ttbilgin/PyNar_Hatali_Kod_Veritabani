@@ -1,4 +1,15 @@
-bicycles = ["trek", "cannondale", "redline"]
+# import module sys to get the type of exception
+import sys
 
-print(bicycles[0]
+randomList = ['a', 0, 2]
 
+for entry in randomList:
+    tray:
+        print("The entry is", entry)
+        r = 1/int(entry)
+        break
+    except:
+        print("Oops!", sys.exc_info()[0], "occurred.")
+        print("Next entry.")
+        print()
+print("The reciprocal of", entry, "is", r)
