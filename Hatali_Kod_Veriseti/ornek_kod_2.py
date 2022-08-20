@@ -1,2 +1,4 @@
-x=5
-print(x+"abcd")
+def foo(); 
+    return 1
+
+print(foo())
