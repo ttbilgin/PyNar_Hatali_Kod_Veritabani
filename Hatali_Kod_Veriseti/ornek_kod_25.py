@@ -1,3 +1,3 @@
-liste=["ayva","nar","kiraz","kayısı"]
-liste.clea()
-print(liste)
+meyveler=["ayva","nar","kiraz","kayısı"]
+meyveler.clear()
+print(meyveler)
