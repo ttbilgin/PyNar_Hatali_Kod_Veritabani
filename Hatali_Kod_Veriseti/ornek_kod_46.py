@@ -1,4 +1,5 @@
-bicycles = ["trek", "cannondale", "redline"]
+import maht
 
+x = math.sqrt(64)
 
-print(bicycles [-1]
+print(x)
